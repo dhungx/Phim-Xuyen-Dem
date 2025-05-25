@@ -1,5 +1,4 @@
-# 🎬 Phim Hay Không Ngủ - Nền Tảng Xem Phim Trực Tuyến
-
+# 🎬 Phim Xuyên Đêm - Phim Hay Không Ngủ. | Nền tảng xem phim trực tuyến thế hệ mới
 <div align="center">
 
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue)]()
