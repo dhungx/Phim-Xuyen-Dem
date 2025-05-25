@@ -1,80 +1,83 @@
+# 🎬 Phim Hay Không Ngủ - Nền Tảng Xem Phim Trực Tuyến
 
 <div align="center">
-  <h1>🎬 Phim Xuyên Đêm - Phim Hay Không Ngủ</h1>
-  <p><i>Nền tảng xem phim trực tuyến với trải nghiệm người dùng tuyệt vời</i></p>
-  
-  [![Website](https://img.shields.io/badge/Website-phimxuyendem-blue)](https://phimxuyendem-beta.up.railway.app)
-  [![Version](https://img.shields.io/badge/Version-1.0.0-green)]()
-  [![License](https://img.shields.io/badge/License-MIT-red)]()
+
+[![Version](https://img.shields.io/badge/Version-1.0.0-blue)]()
+[![License](https://img.shields.io/badge/License-MIT-green)]()
+[![React](https://img.shields.io/badge/React-18.3-61dafb)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178c6)]()
+
 </div>
 
----
+## 🌟 Giới Thiệu
+**Phim Xuyên Đêm** là nền tảng xem phim trực tuyến thế hệ mới, mang đến trải nghiệm giải trí tuyệt vời với kho phim đa dạng, chất lượng cao và nhiều tính năng thông minh. Được phát triển với công nghệ hiện đại, chúng tôi cam kết mang đến cho người dùng những giây phút thư giãn tuyệt vời nhất.
 
-## ✨ Tính Năng Nổi Bật
+## 🚀 Tính Năng Nổi Bật
 
-### 🎯 Trải Nghiệm Xem Phim
-- 🎥 Kho phim đa dạng với chất lượng cao
-- 🔍 Tìm kiếm và lọc phim thông minh
-- 💫 Gợi ý phim được cá nhân hóa
-- 📱 Tương thích mọi thiết bị
-- 💬 Hỗ trợ phụ đề đa ngôn ngữ
+### 🎥 Trải Nghiệm Xem Phim
+- 🎬 Kho phim khổng lồ với chất lượng 4K
+- 🔍 Tìm kiếm và lọc phim thông minh với AI
+- 🎯 Gợi ý phim được cá nhân hóa theo sở thích
+- 📱 Tương thích hoàn hảo trên mọi thiết bị
+- 💬 Hỗ trợ phụ đề tiếng Việt
 
 ### 👤 Cá Nhân Hóa
-- 🔐 Hệ thống tài khoản bảo mật
-- 📋 Lưu lịch sử xem phim
-- ❤️ Danh sách phim yêu thích
-- 📊 Theo dõi tiến độ xem
-- 🏆 Thành tích xem phim hàng ngày
+- 🔐 Đăng nhập/đăng ký nhanh chóng
+- 📋 Lịch sử xem được đồng bộ đa thiết bị
+- ❤️ Tạo và quản lý danh sách phim yêu thích
+- 📊 Theo dõi chi tiết tiến độ xem phim
+- 🏆 Hệ thống thành tích và phần thưởng hấp dẫn
 
-### 🔥 Khám Phá
-- 🆕 Phim mới cập nhật liên tục
-- 📈 Phim thịnh hành
-- 🌏 Phim theo quốc gia
-- 🎯 Xu hướng phim hot
-- 🎲 Đề xuất thông minh
+### 🌈 Khám Phá Mới
+- 🆕 Cập nhật phim mới hàng ngày
+- 📈 Bảng xếp hạng phim theo nhiều tiêu chí
+- 🌏 Phim đa dạng từ nhiều quốc gia
+- 🔥 Xu hướng phim nóng hổi
+- 🎲 Đề xuất thông minh dựa trên AI
 
-### 💫 Tương Tác
-- 💭 Bình luận & đánh giá
-- ⭐ Xếp hạng phim
-- 🔄 Chia sẻ với bạn bè
-- 📊 Thống kê lượt xem
+### 💫 Tương Tác Cộng Đồng
+- 💭 Hệ thống bình luận thời gian thực
+- ⭐ Đánh giá và xếp hạng phim
+- 🔄 Chia sẻ phim với bạn bè dễ dàng
+- 📊 Thống kê chi tiết lượt xem
 
-### 🎨 Giao Diện
-- 🌈 Thiết kế hiện đại
-- 🌙 Chế độ tối tự động
-- ✨ Hiệu ứng mượt mà
-- 🎯 Tối ưu trải nghiệm
-- 🌍 Hỗ trợ đa ngôn ngữ
+### 🎨 Giao Diện Người Dùng
+- 🎯 Thiết kế tối giản, hiện đại
+- 🌙 Chế độ tối thông minh tự động
+- ✨ Hiệu ứng chuyển động mượt mà
+- 🚀 Tối ưu hóa trải nghiệm
+- 🌍 Hỗ trợ tiếng Việt
 
-### 🔔 Thông Báo
-- 📢 Cập nhật phim mới
-- ⏰ Nhắc nhở tiếp tục xem
-- 🔥 Thông báo phim yêu thích
-- 🏆 Thông báo thành tích
+### 🔔 Hệ Thống Thông Báo
+- 📢 Cập nhật phim mới theo sở thích
+- ⏰ Nhắc nhở thông minh tiếp tục xem
+- 🔥 Thông báo về phim yêu thích
+- 🏆 Thông báo thành tích đạt được
 
-### 🔒 Bảo Mật
-- 🛡️ Bảo vệ thông tin cá nhân
-- 🔐 Mã hóa dữ liệu
-- 👤 Quản lý phiên đăng nhập
-- 🎯 Kiểm soát truy cập
+### 🛡️ Bảo Mật Tối Ưu
+- 🔒 Bảo vệ thông tin người dùng tối đa
+- 🔐 Mã hóa dữ liệu end-to-end
+- 👤 Quản lý phiên đăng nhập an toàn
+- 🎯 Kiểm soát quyền truy cập chặt chẽ
 
-### ⚡ Tính Năng Kỹ Thuật
-- 💾 Tự động lưu tiến độ
-- 📺 Chất lượng video thích ứng
-- 🚀 Tối ưu tốc độ tải
-- 📱 Hỗ trợ xem offline (đang phát triển)
+### ⚡ Công Nghệ Hiện Đại
+- 💾 Tự động đồng bộ tiến độ xem
+- 📺 Điều chỉnh chất lượng video thích ứng
+- 🚀 Tối ưu hóa tốc độ tải cực nhanh
+- 📱 Tính năng xem offline (đang phát triển)
+
+
+## 🤝 Đóng Góp
+
+Chúng tôi luôn chào đón mọi đóng góp từ cộng đồng. Hãy tạo issue hoặc pull request để giúp chúng tôi cải thiện sản phẩm.
+
+## 📜 Giấy Phép
+
+Dự án được phát hành dưới giấy phép MIT. Xem file `LICENSE` để biết thêm chi tiết.
 
 ---
 
 <div align="center">
-  <h2>📱 Trải Nghiệm Ngay</h2>
-  <a href="https://phimxuyendem-beta.up.railway.app" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Truy_cập-Website-blue?style=for-the-badge" alt="Website"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  Được phát triển với ❤️ bởi đội ngũ TYNO
+  <h3>💖 Cảm ơn bạn đã sử dụng Phim Hay Không Ngủ!</h3>
+  <p>Made with ❤️ by TYNO Team</p>
 </div>
