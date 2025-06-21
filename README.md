@@ -5,10 +5,8 @@
 
 🌐 [**Truy cập Website**](https://phimxuyendem.up.railway.app)
 
-[![Version](https://img.shields.io/badge/Version-1.0.0-blue)]()  
-[![License](https://img.shields.io/badge/License-MIT-green)]()  
-[![React](https://img.shields.io/badge/React-18.3-61dafb)]()  
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178c6)]()
+[![Version](https://img.shields.io/badge/Version-1.0.0-blue)]()| [![License](https://img.shields.io/badge/License-MIT-green)]()  
+[![React](https://img.shields.io/badge/React-18.3-61dafb)]() | [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178c6)]()
 
 </div>
 
